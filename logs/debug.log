@@ -1,0 +1,936 @@
+2019-03-14 10:30:32 Notice: Notice (8): Undefined variable: databaseDetails in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\DashboardController.php, line 29]
+Request URL: /Akshay/final-gym/gym_master/dashboard/index
+Client IP: 192.168.1.253
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\DashboardController::index() - APP/Controller\DashboardController.php, line 29
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-14 10:30:32 Notice: Notice (8): Undefined variable: databaseDetails in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\DashboardController.php, line 30]
+Request URL: /Akshay/final-gym/gym_master/dashboard/index
+Client IP: 192.168.1.253
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\DashboardController::index() - APP/Controller\DashboardController.php, line 30
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-14 10:30:32 Notice: Notice (8): Undefined variable: databaseDetails in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\DashboardController.php, line 31]
+Request URL: /Akshay/final-gym/gym_master/dashboard/index
+Client IP: 192.168.1.253
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\DashboardController::index() - APP/Controller\DashboardController.php, line 31
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-14 10:30:32 Notice: Notice (8): Undefined variable: databaseDetails in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\DashboardController.php, line 32]
+Request URL: /Akshay/final-gym/gym_master/dashboard/index
+Client IP: 192.168.1.253
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\DashboardController::index() - APP/Controller\DashboardController.php, line 32
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-19 10:26:21 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.43
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-19 10:26:21 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.43
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-19 10:27:29 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/gym-member/add-member
+Client IP: 192.168.1.43
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 05:38:22 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 05:38:22 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 05:38:50 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 05:38:50 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:34:42 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:34:42 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:35:16 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:35:16 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:44:22 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:44:22 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:45:05 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-03-23 07:45:05 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/25
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-10 12:52:54 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/26
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 07:02:31 Notice: Notice (8): Undefined index: time_list in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\ClassScheduleController.php, line 104]
+Request URL: /Akshay/final-gym/gym_master/ClassSchedule/editClass/11
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/ClassSchedule/editClass/11
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ClassScheduleController::editClass() - APP/Controller\ClassScheduleController.php, line 104
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 08:41:42 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 125]
+Request URL: /Akshay/final-gym/gym_master/ClassSchedule/editClass/11
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 125
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\ClassScheduleController::editClass() - APP/Controller\ClassScheduleController.php, line 100
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:03:20 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:03:47 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:04:03 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:04:36 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:04:42 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:05:06 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:05:36 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:05:40 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:05:41 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 262]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 262
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-13 09:06:41 Notice: Notice (8): Undefined variable: count in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\ClassSchedule\add_class.ctp, line 279]
+Request URL: /Akshay/final-gym/gym_master/class-schedule/add-class
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/class-schedule/class-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ClassSchedule\add_class.ctp, line 279
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:14:02 Notice: Notice (8): Undefined variable: data in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\StaffMembers\add_staff.ctp, line 182]
+Request URL: /Akshay/final-gym/gym_master/staff-members/add-staff
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/staff-members/staff-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\StaffMembers\add_staff.ctp, line 182
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:14:11 Notice: Notice (8): Undefined variable: data in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\StaffMembers\add_staff.ctp, line 182]
+Request URL: /Akshay/final-gym/gym_master/staff-members/add-staff
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/staff-members/staff-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\StaffMembers\add_staff.ctp, line 182
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:14:24 Notice: Notice (8): Undefined variable: data in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Template\StaffMembers\add_staff.ctp, line 182]
+Request URL: /Akshay/final-gym/gym_master/staff-members/add-staff
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/staff-members/staff-list
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\StaffMembers\add_staff.ctp, line 182
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:14:28 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/gym-member/add-member
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:14:54 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:20:51 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:21:55 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:26:32 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:26:41 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:27:47 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:33:57 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:34:40 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:35:48 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:36:51 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:37:02 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:38:06 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-25 05:38:25 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.131
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:13:24 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/26
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:14:03 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:14:25 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/32
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:25:32 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/gym-member/add-member
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:30:06 Notice: Notice (8): Undefined offset: 2 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:30:06 Notice: Notice (8): Undefined offset: 3 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:30:10 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:30:15 Notice: Notice (8): Undefined variable: member in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymMemberController.php, line 311]
+Request URL: /Akshay/final-gym/gym_master/GymMember/editMember/33
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymMemberController::editMember() - APP/Controller\GymMemberController.php, line 311
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:30:15 Notice: Notice (8): Trying to get property of non-object in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymMemberController.php, line 311]
+Request URL: /Akshay/final-gym/gym_master/GymMember/editMember/33
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymMemberController::editMember() - APP/Controller\GymMemberController.php, line 311
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:31:04 Notice: Notice (8): Undefined variable: member in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymMemberController.php, line 311]
+Request URL: /Akshay/final-gym/gym_master/GymMember/editMember/33
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymMemberController::editMember() - APP/Controller\GymMemberController.php, line 311
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:31:04 Notice: Notice (8): Trying to get property of non-object in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymMemberController.php, line 311]
+Request URL: /Akshay/final-gym/gym_master/GymMember/editMember/33
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymMemberController::editMember() - APP/Controller\GymMemberController.php, line 311
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:31:05 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/33
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:34:33 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/gym-member/add-member
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:36:05 Notice: Notice (8): Undefined offset: 1 in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1573]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/34
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1573
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
+2019-05-30 09:36:12 Notice: Notice (8): Undefined index: group in [D:\xampp\htdocs\Akshay\final-gym\gym_master\src\Controller\GymAjaxController.php, line 1553]
+Request URL: /Akshay/final-gym/gym_master/GymAjax/get_membership_classes
+Referer URL: http://192.168.1.109/Akshay/final-gym/gym_master/GymMember/editMember/34
+Client IP: 192.168.1.109
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\GymAjaxController::getMembershipClasses() - APP/Controller\GymAjaxController.php, line 1553
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 36
+
+
+
